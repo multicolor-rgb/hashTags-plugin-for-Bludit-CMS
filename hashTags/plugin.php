@@ -1,6 +1,6 @@
 <?php
 
-class CustomAdmin extends Plugin
+class hashTags extends Plugin
 {
 
 
